@@ -1,0 +1,8 @@
+Package: splunk-stock-king
+Version: 1.2013.06.28-1372431084
+Section: base 
+Priority: optional 
+Architecture: all 
+Depends: splunk 
+Maintainer: erikdj@jacobianengineering.com
+Description: Splunk Stock King
